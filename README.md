@@ -12,9 +12,10 @@ I am a fullstack JS developer interested in <br>IT, electronics and computing
 ![](https://github-readme-stats.vercel.app/api?username=ROKETAG33&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ROKETAG33&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ROKETAG33&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ROKETAG33&theme=algolia&no-frame=false&no-bg=false&margin-w=4)
+
+<a href="https://app.daily.dev/roketag"><img src="https://api.daily.dev/devcards/11c9eaaaa9c94cab80f62a8fcd95fcd1.png?r=4so" width="400" alt="roketag's Dev Card"/></a>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ROKETAG33&icon=1&color=0)](https://visitcount.itsvg.in)
